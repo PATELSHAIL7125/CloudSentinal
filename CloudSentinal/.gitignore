@@ -1,0 +1,17 @@
+# Local secrets and Python environment
+backend/.env
+backend/cloudsentinel.db
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Editor files
+.vscode/
+.idea/
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+.pnpm-store/
